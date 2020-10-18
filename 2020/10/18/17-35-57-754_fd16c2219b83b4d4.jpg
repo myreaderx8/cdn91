@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <title>Переходи на Premier.one - Now.ru</title>
+    <meta
+      name="description"
+      content="Сайт-кинотеатр, на котором можно смотреть лучшие фильмы, сериалы и ТВ-программы. В отличном качестве. Без рекламы. Легально."
+    />
+    <meta name="yandex-verification" content="408c42f1a3f02244" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Rubik:300,400,500"
+      rel="stylesheet"
+      media="all"
+    />
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+      (function(d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+          try {
+            w.yaCounter20740915 = new Ya.Metrika({
+              id: 20740915,
+              webvisor: true,
+              clickmap: true,
+              trackLinks: true,
+              accurateTrackBounce: true
+            });
+          } catch (e) {}
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+          s = d.createElement("script"),
+          f = function() {
+            n.parentNode.insertBefore(s, n);
+          };
+
+        s.type = "text/javascript";
+        s.async = true;
+        s.src =
+          (d.location.protocol == "https:" ? "https:" : "http:") +
+          "//mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+          d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+          f();
+        }
+      })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <!-- /Yandex.Metrika counter -->
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(["_setAccount", "UA-18245815-1"]);
+      _gaq.push(["_setDomainName", window.location.host]);
+      _gaq.push(["_setSessionCookieTimeout", 9000000]);
+      _gaq.push(["_trackEvent", "Engagement", "Browse Category", 0, true]);
+      _gaq.push(["_trackPageview"]);
+    </script>
+  </head>
+  <body>
+    <div class="content">
+      <div class="content__image-block">
+        <a
+          target="_blank"
+          href="https://premier.one/?utm_source=now&utm_medium=owned&utm_campaign=now_abc_d_premier.one_._._popup&utm_content=.&utm_term=."
+          ><img class="content__image" src="bg.png" alt="Переходи на Premier"
+        /></a>
+      </div>
+      <a
+        class="more-button"
+        target="_blank"
+        href="https://premier.one/?utm_source=now&utm_medium=owned&utm_campaign=now_abc_d_premier.one_._._popup&utm_content=.&utm_term=."
+        >Узнать больше</a
+      >
+    </div>
+    <noscript
+      ><div>
+        <img
+          src="//mc.yandex.ru/watch/20740915"
+          style="position:absolute; left:-9999px;"
+          alt=""
+        /></div
+    ></noscript>
+  </body>
+</html>
